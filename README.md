@@ -1,4 +1,4 @@
-# Simple Calculator
+ # Simple Calculator
 
 A basic Python calculator.
 
@@ -9,7 +9,7 @@ A basic Python calculator.
 - Multiplication
 - Division
 - Division by zero handling
-
+    
 ## How to Run
 
 ```bash

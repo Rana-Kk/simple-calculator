@@ -23,5 +23,6 @@ if __name__ == "__main__":
     b = float(input("Second number: "))
 
     print("Addition:", add(a, b))
+    print('Multiplecation:', add(a,b,c))
     print("Subtraction:", subtract(a, b))
     print("Division:", divide(a, b))

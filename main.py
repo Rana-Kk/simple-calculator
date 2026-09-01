@@ -15,7 +15,6 @@ def divide(a, b):
         return None
     return a / b
   
-
 if __name__ == "__main__":
     print("Simple Calculator")
 
